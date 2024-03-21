@@ -1,0 +1,15 @@
+.searchBox {
+    border-bottom-color: transparent !important;
+    border-bottom-left-radius: 0 !important;
+    border-bottom-right-radius: 0 !important;
+}
+
+.results {
+    display: none;
+}
+
+.showResults {
+    display: block !important;
+    border-top-left-radius: 0 !important;
+    border-top-right-radius: 0 !important;
+}
