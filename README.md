@@ -1,6 +1,6 @@
 # Search Bar
 In this project you can find a search bar in the form of
-[bing.com]('https://bing.com').
+[bing.com](https://bing.com/) .
 
 Features that you can find in this search bar:
 
